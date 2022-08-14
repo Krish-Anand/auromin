@@ -1,0 +1,29 @@
+.spacer {
+  flex: 1;
+}
+
+.toolbar {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 60px;
+  background-color: #58353a;
+  color: #e0c17d;
+  font-weight: 600;
+}
+
+.nav-item {
+  padding: 0 5px;
+  .nav-link {
+    background-color: #dbab42;
+    color: #131212 !important;
+    border-radius: 5px;
+  }
+   :hover{
+    background-color: #dbab42;
+    color: #6a6868 !important;
+    border-radius: 5px;
+  }
+}
+

@@ -1,0 +1,26 @@
+.bg {
+  background-image: url("../../../../assets/image/Elektro\ Instrumentatie.jpg");
+  height: 300px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: flex;
+  text-align: center;
+}
+
+
+.text-sandal {
+  color: #dbab42;
+}
+
+.card {
+  background-color: #ece5e5;
+  color: #33181c;
+}
+
+.card-body {
+  li {
+    font-size: 16px;
+    font-weight: 500;
+  }
+}
